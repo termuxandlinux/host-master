@@ -1,0 +1,54 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sun, 10 Mar 2024 12:45:00 +0200
+Source: host-master
+Binary: host-master
+Built-For-Profiles: noudeb
+Architecture: source armhf
+Version: 1.0
+Distribution: mantic
+Urgency: low
+Maintainer: Alexander Krefting <kakrefting@gmail.com>
+Changed-By: Alexander Krefting <kakrefting@gmail.com>
+Description:
+ host-master - Kurze Beschreibung des Pakets
+Changes:
+ host-master (1.0) mantic; urgency=low
+ .
+   * Initial release of host-master
+   * Fixed an issue with the commands
+Checksums-Sha1:
+ 672103930a525a4237d0da17b52686af2907dd05 1235 host-master_1.0.dsc
+ 0982cc2b3b2fcb6812f10b334bfa076ce2bda659 14723 host-master_1.0.tar.gz
+ 0043903b642e31f66604f5070daf574eb56c1db4 2476 host-master-dbgsym_1.0_armhf.ddeb
+ a553bdaec18c3302c7cd7942de2c55058fa02f20 6272 host-master_1.0_armhf.buildinfo
+ 7f8a8108f61099617dde625f2983f0eb66642e1a 3430 host-master_1.0_armhf.deb
+Checksums-Sha256:
+ d1fc31d0044525bffe2f19f21607f42ddb1c341f12a91f6e4a7c332b86fd9b59 1235 host-master_1.0.dsc
+ 4d34fb36a93fd762e23b13471fd5f560edc02cc663f733fa15f4859f433eac7a 14723 host-master_1.0.tar.gz
+ dec5f03a8f27ae1a0ad1d5494e0342450af56e1755db1021f8f5bbec5d09a783 2476 host-master-dbgsym_1.0_armhf.ddeb
+ fe97b36f3185c2767709e2a78ff2f2a1cfe3b941d496a42c6061a6a88521c044 6272 host-master_1.0_armhf.buildinfo
+ d31168ef8d5d60a913e61017ac617b6135d0bbb5670f2c2d3a8d7d749a262183 3430 host-master_1.0_armhf.deb
+Files:
+ fe6289b2298df5e8b2cb0dec2d7389e4 1235 utils optional host-master_1.0.dsc
+ 030343652e6261cc464abdd40090a94b 14723 utils optional host-master_1.0.tar.gz
+ 28b5d0a4755fc98326687e529c0bc7d3 2476 debug optional host-master-dbgsym_1.0_armhf.ddeb
+ cbed4977480d46c321e4ec0c3e8c259c 6272 utils optional host-master_1.0_armhf.buildinfo
+ 96e23e2ffc71b72f96806503954b2565 3430 utils optional host-master_1.0_armhf.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEEQo1IUJ+YEo2ZBdhKwGAQynNLJNMFAmX1iI8ACgkQwGAQynNL
+JNOtoAwAkY9bQA14/61cdXQpaAOI50YJzN8RHXEqkwQuJe/BoGw2nU9QqPWFrJ/o
+2xD6xx3CM5KUcp2Hj8KR6qtCy3lYRtVIqhzTe5oK6L0fX1e+X/7VeI4sqeFK8OvN
+Jlp0frWHmh7jRR/zy2PZaGHFki7QXw/zg2NPQEXOy3c/fON+F9kHCG+ytJm/KPvP
+As6p1srSkRW+5TqAiGBhj8c14ifKVMag7bjqy3wJdB62w5pFqKOX6mgFCxhwyZrl
+66iFnBurWQ5QcUicYL+GpIoewyeA2RZ0AuiYt+vU+jvuDmvd2/Im+4zudN4y3KuG
+NFTS0WQ8OTtZYrkomdt2sOulZsbMSIPU9sSXYbxHpeGNeWSwq8x3AfL9K3KQ6bqv
+QwmskwFBVTHrC87tq0zXK6MCXFZ1B7N/YlEpCwGg3ypmuW+3XTEkN9Zg8w+qpJdI
+is+mMoJFeU6yC7nBhQsBKw1+3NHQqb8JiNjoJFTj4NnTcyCS2mYNmPV/26F4m0MH
+9YKQIGTi
+=L8WA
+-----END PGP SIGNATURE-----

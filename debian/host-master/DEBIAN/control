@@ -1,0 +1,11 @@
+Package: host-master
+Version: 1.0
+Architecture: armhf
+Maintainer: Alexander Krefting <kakrefting@gmail.com>
+Installed-Size: 14
+Depends: libc6 (>= 2.34)
+Section: utils
+Priority: optional
+Description: Kurze Beschreibung des Pakets
+ Lange Beschreibung des Pakets, die
+ über mehrere Zeilen gehen kann.

@@ -1,0 +1,45 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sun, 10 Mar 2024 12:45:00 +0200
+Source: host-master
+Built-For-Profiles: noudeb
+Architecture: source
+Version: 1.0
+Distribution: mantic
+Urgency: low
+Maintainer: Alexander Krefting <kakrefting@gmail.com>
+Changed-By: Alexander Krefting <kakrefting@gmail.com>
+Changes:
+ host-master (1.0) mantic; urgency=low
+ .
+   * Initial release of host-master
+   * Fixed an issue with the commands
+Checksums-Sha1:
+ fd8b6bcbd41c06ac8987fdafeb59ca07fd771c29 1232 host-master_1.0.dsc
+ 6861397a1a2c7e8d382ba0470d16d3e6e05260e8 4786 host-master_1.0.tar.gz
+ 67edfee88b1d0ed2a1753f6d004dd26de1981ab9 5733 host-master_1.0_source.buildinfo
+Checksums-Sha256:
+ 015f0097a78d6748a5da40c9d0248a745f8e351a950c97bef352cc90e6dae0de 1232 host-master_1.0.dsc
+ 8ec1b3354f93ec0ff3a6c2869b2fc9f860123a0fad1b22d1c0b518de56796632 4786 host-master_1.0.tar.gz
+ 1d44382fc00ca24a2b1837a5848c256710c8ddaae19b09370c38d37d129efa7b 5733 host-master_1.0_source.buildinfo
+Files:
+ 14c8097aff91d7ce07a54b1b64d2f4c3 1232 utils optional host-master_1.0.dsc
+ 9c527c28d8082137959f913d4129b9bd 4786 utils optional host-master_1.0.tar.gz
+ 6adff545fc9be97848fb5919a1f4a630 5733 utils optional host-master_1.0_source.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEEQo1IUJ+YEo2ZBdhKwGAQynNLJNMFAmX1h5cACgkQwGAQynNL
+JNNqCQv9EdVO8m97P9pkDNDpqjwHJ3Fomavm+Kss0QG1EWsIfm4YqAoDN3F23hbH
+LQYK4ZZPADmBE1yzasVEqx0/TexgoEe/DRmuOXZFYpEckWTqztHbD4UUaBU6JF1X
+1//EIQyQCl/HI724k4qLkCRRiLnA66KIa/jnc+Fz3p/5YdofjrBYRqnv/6AO3k8l
+X5o19c5pyl45fpL1J04xHKEqWC9N1X2ldLbroyFY2/kG+Jr5OuHGi2EwwlitT8b0
+Nob/BzAR8nPKkJPEbYGctMDV8PIVjvCaqEsODzklelNZwNum1bZCYFZFnvJ6E4FQ
+MFOSO6rG5HQ8Yhuyvvz0JIGrAC6sUsrECk6TA/1YtiNkmO6+PKIUc3VQoaSIyUFW
+M6+7RGnWnkI3Kpqkf11b558hYUIWW3w3tHK3S9B71V9WIcoywQM52tIxPOyZsw/S
+SN6jcJB/O/h5Z8MPuhGh7bgi3c93tGPPudLo82babapDHQm5SumGfpLm3iiXd52X
+7SSRtfXE
+=9ujJ
+-----END PGP SIGNATURE-----

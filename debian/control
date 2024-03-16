@@ -1,0 +1,13 @@
+Source: host-master
+Section: utils
+Priority: optional
+Maintainer: Alexander Krefting <kakrefting@gmail.com>
+Build-Depends: debhelper-compat (= 12)
+Standards-Version: 4.1.4
+
+Package: host-master
+Architecture: any
+Depends: ${misc:Depends}, ${shlibs:Depends}
+Description: Kurze Beschreibung des Pakets
+ Lange Beschreibung des Pakets, die
+ über mehrere Zeilen gehen kann.
